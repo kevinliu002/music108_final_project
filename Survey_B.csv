@@ -1,0 +1,37 @@
+﻿Gender,Age,Perfect_Pitch,Listen_Music,Played_Instruement,Years,Control,Sequence1,Sequence1_Timing,Sequence2,Sequence2_Timing,Sequence3,Sequence3_Timing,Sequence4,Sequence4_Timing,Notes,Easiest
+Male,20,No,Yes,Yes,5,Higher,Same,Earlier,Lower,Expected,Higher,Later,Lower,Later,,Question 1
+Female,20,No,Yes,No,0,Higher,Higher,Later,Lower,Later,Higher,Expected,Higher,Later,,Question 1
+Male,20,No,Yes,Yes,8,Higher,Higher,Expected,Lower,Earlier,Higher,Earlier,Higher,Expected,,Question 4
+Male,20,No,Yes,Yes,8,Lower,Higher,Earlier,Same,Earlier,Lower,Earlier,Higher,Expected,,Question 1
+Male,18,No,Yes,Yes,4,Higher,Higher,Earlier,Higher,Later,Same,Earlier,Higher,Expected,,Question 1
+Female,20,No,Yes,Yes,3,Higher,Higher,Expected,Lower,Earlier,Higher,Expected,Higher,Expected,,Question 1
+Male,20,No,Yes,Yes,16,Higher,Higher,Earlier,Lower,Later,Higher,Earlier,Higher,Earlier,,Question 4
+Male,20,No,Yes,Yes,16,Higher,Higher,Earlier,Lower,Later,Higher,Earlier,Higher,Earlier,,Question 4
+Female,20,No,Yes,No,0,Higher,Higher,Later,Lower,Expected,Higher,Expected,Higher,Expected,,Question 1
+Female,20,No,Yes,Yes,10,Higher,Same,Later,Same,Earlier,Same,Earlier,Higher,Expected,,Question 4
+Female,20,No,Yes,Yes,10,Higher,Higher,Earlier,Lower,Earlier,Same,Expected,Higher,Earlier,,Question 1
+Male,18,No,Yes,Yes,5,Higher,Higher,Later,Lower,Expected,Higher,Expected,Higher,Expected,Have a great Thanksgiving!,Question 4
+Female,21,No,Yes,Yes,14,Higher,Same,Later,Lower,Later,Higher,Earlier,Higher,Expected,,Question 3
+Male,20,No,Yes,Yes,1,Higher,Higher,Earlier,Higher,Later,Same,Earlier,Lower,Expected,,Question 1
+Female,21,No,Yes,Yes,10,Higher,Higher,Later,Lower,Earlier,Higher,Expected,Higher,Expected,,Question 1
+Male,21,No,Yes,No,0,Higher,Higher,Expected,Lower,Earlier,Higher,Earlier,Higher,Later,,Question 1
+Female,,No,Yes,Yes,9,Higher,Lower,Later,Same,Earlier,Lower,Earlier,Higher,Expected,,Question 1
+Male,19,No,Yes,No,0,Higher,Higher,Expected,Higher,Earlier,Lower,Earlier,Higher,Expected,,Question 4
+Male,40,No,Yes,Yes,30,Higher,Higher,Expected,Lower,Earlier,Higher,Expected,Higher,Later,It is unclear how many times we are allowed to listen to the audio.,Question 1
+Male,20,No,Yes,Yes,6,Higher,Higher,Expected,Higher,Earlier,Higher,Later,Higher,Expected,,Question 1
+Female,24,No,Yes,Yes,16,Higher,Higher,Expected,Lower,Expected,Same,Earlier,Higher,Expected,,Question 1
+Female,30,No,Yes,Yes,2,Higher,Higher,Expected,Lower,Later,Higher,Earlier,Higher,Expected,,Question 1
+Male,21,Yes,Yes,Yes,17,Higher,Higher,Later,Lower,Expected,Higher,Earlier,Higher,Expected,"I wasn't really sure whether notes were expected/early/late, but I just kinda went by feel.",Question 4
+Male,20,No,No,Yes,16,Higher,Higher,Expected,Lower,Earlier,Higher,Expected,Higher,Later,"it was a bit hard to remember what I just heard, so most of my answers for the earlier/later questions were pretty rough guesses (maybe that's what was intended, though)",Question 1
+Male,19,No,Yes,Yes,14,Higher,Higher,Earlier,Lower,Earlier,Same,Earlier,Higher,Expected,n/a,Question 4
+Male,21,Yes,Yes,Yes,10,Higher,Higher,Later,Lower,Expected,Higher,Expected,Higher,Expected,,Question 4
+Female,19,No,Yes,Yes,3,Same,Higher,Expected,Lower,Earlier,Same,Earlier,Lower,Expected,,Question 1
+Female,19,No,Yes,Yes,9,Higher,Higher,Earlier,Lower,Later,Higher,Earlier,Higher,Expected,,Question 1
+Female,20,No,Yes,Yes,16,Higher,Higher,Expected,Lower,Expected,Higher,Expected,Same,Expected,,
+Male,20,No,Yes,Yes,4,Higher,Higher,Earlier,Same,Earlier,Lower,Earlier,Higher,Later,,Question 1
+Female,21,No,Yes,No,0,Higher,Higher,Earlier,Same,Earlier,Lower,Expected,Higher,Expected,,Question 2
+Male,20,No,Yes,Yes,10,Higher,Higher,Expected,Lower,Expected,Higher,Expected,Higher,Expected,,Question 4
+Male,21,No,Yes,Yes,8,Higher,Higher,Expected,Lower,Expected,Higher,Earlier,Higher,Later,"Maybe playing a short, rhythmic tune at the start of the study could help set the ""expectation"" for the four sequences after.",Question 2
+Male,39,No,Yes,Yes,5,Lower,Higher,Earlier,Lower,Earlier,Lower,Earlier,Higher,Expected,Some of the first tones seemed higher in pitch but were played pianissimo (very softly) while the last note appeared to register at a lower tone but was played pianoforte. ,Question 1
+Female,20,No,Yes,Yes,3,Higher,Higher,Expected,Same,Expected,Same,Expected,Same,Expected,,Question 1
+Female,23,No,No,No,0,Higher,Higher,Expected,Higher,Earlier,Lower,Later,Same,Expected,,Question 1
